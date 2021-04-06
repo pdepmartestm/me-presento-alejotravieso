@@ -6,5 +6,5 @@
 ## Datos Personales
 Tengo 26 años, soy hincha de River y vivo en San Antonio de Padua
 ## Como objetivos de la cursada...
-Mi objetivo para el final de la cursada es conseguir algun trabajo relacionado con la carrera.
+Mi objetivo para el final de la cursada es conseguir algun trabajo relacionado con la carrera. Mi intención es profundizar y/o descubrir lenguajes de programación, encontrar los que me parezcan mas interesantes asi empiezo a profundizar mis conocimientos en estos.
 
