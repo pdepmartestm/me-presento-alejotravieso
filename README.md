@@ -5,4 +5,6 @@
 160766-2
 ## Datos Personales
 Tengo 26 años, soy hincha de River y vivo en San Antonio de Padua
+##Como objetivos de la cursada...
+Mi objetivo para el final de la cursada es conseguir algun trabajo relacionado con la carrera.
 
